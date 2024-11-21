@@ -167,3 +167,4 @@ D:\study\NewProject\doge\doge\api\obj\Debug\net8.0\refint\api.dll
 D:\study\NewProject\doge\doge\api\obj\Debug\net8.0\api.pdb
 D:\study\NewProject\doge\doge\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\study\NewProject\doge\doge\api\obj\Debug\net8.0\ref\api.dll
+D:\study\NewProject\doge\doge\api\obj\Debug\net8.0\api.sourcelink.json
