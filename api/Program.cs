@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using api.interfaces;
+using api.Respository;
 
 
 
@@ -18,6 +20,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ApplicationDBContext>(options => {
     options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"));
 });
+
+builder.Services.AddScoped<IStockRepository,StockRepository>();
 
 var app = builder.Build();
 
