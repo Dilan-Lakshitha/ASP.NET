@@ -168,3 +168,7 @@ D:\study\NewProject\doge\doge\api\obj\Debug\net8.0\api.pdb
 D:\study\NewProject\doge\doge\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\study\NewProject\doge\doge\api\obj\Debug\net8.0\ref\api.dll
 D:\study\NewProject\doge\doge\api\obj\Debug\net8.0\api.sourcelink.json
+D:\study\NewProject\doge\doge\api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\study\NewProject\doge\doge\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\study\NewProject\doge\doge\api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\study\NewProject\doge\doge\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
