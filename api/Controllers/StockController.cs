@@ -26,7 +26,7 @@ namespace api.Controllers
         {
             var stock =  await _context.Stocks.ToListAsync();
             var stockDto = stock.Select(s => s.ToStockDto()).ToList();
-            return Ok(stockDto);
+            return Ok(stock);
         }
 
         // Get stock by ID
